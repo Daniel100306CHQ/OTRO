@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+}
+.myform button{
+  background-color: rgb(255, 253, 151);
+}
+.myform input{
+  background-color: rgb(255, 253, 151);
+}
+.myform select{
+  background-color: rgb(255, 253, 151);
+}
+.content {
+  width: 20em;
+  height: 10em;
+  margin: 1em;
+}
